@@ -58,6 +58,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/ionq/
+  name: IonQ
+  x-relationship: acquired
+  x-evidence: "Oxford Ionics was acquired by IonQ in 2025."
 - type: Website
   url: https://oxionics.com
 - type: Blog
